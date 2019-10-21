@@ -58,7 +58,6 @@ dependencies:
   - libcxx=9.0.0
   - libevent=2.1.10
   - libffi=3.2.1
-  - fortran=4.0.0
   - libiconv=1.15
   - liblapack=3.8.0
   - libllvm8=8.0.1
